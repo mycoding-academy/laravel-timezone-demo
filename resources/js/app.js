@@ -1,4 +1,4 @@
-require('./bootstrap');
+import './bootstrap';
 
 import Alpine from 'alpinejs';
 import ToastComponent from './../../vendor/usernotnull/tall-toasts/dist/js/tall-toasts'
